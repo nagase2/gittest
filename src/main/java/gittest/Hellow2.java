@@ -6,6 +6,7 @@ public class Hellow2 {
 		// TODO Auto-generated method stub
 		//これは必要な変更
 		System.out.println("コミット１");
+		System.out.println("コメント追加２");
 	}
 
 }
