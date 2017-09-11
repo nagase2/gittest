@@ -6,7 +6,8 @@ public class HelloWorld {
 
 		System.out.println("hello12");
 		System.out.println("hello3");
-		System.out.println("hello4");
+		System.out.println("あってはならない変更 TOマスタ");
+		//またやった
 	}
 
 }
