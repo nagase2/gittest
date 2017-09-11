@@ -8,6 +8,7 @@ public class HelloWorld {
 		System.out.println("hello3");
 		System.out.println("あってはならない変更 TOマスタ");
 		//コレは不要な変更
+		System.out.println("こめんとついか");
 	}
 
 }
